@@ -93,6 +93,13 @@ public FibonacciList(int maxValue) {
 ## Процесс публикации документации: 
 Процесс публикации был идентичен процессу, описанному в части 1. Общая папка docs, с html-файлами, сгенерированными pydoc и javadoc была загружена на github pages.
 
+![image](https://github.com/user-attachments/assets/404db072-b185-48b6-8185-c38a78a01c49)
+
+![image](https://github.com/user-attachments/assets/7f73dac8-69cf-47fc-8d1f-bec977eec08a)
+
+![image](https://github.com/user-attachments/assets/9fc10c0c-a185-42eb-9d21-66763f0bae88)
+
+
 ## Возникшие проблемы и способы их решения:
 
 Проблема: Ошибка кодировки при генерации Javadoc. Решение: Запуск javadoc с указанием кодировки \
